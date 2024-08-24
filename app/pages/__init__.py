@@ -1,0 +1,1 @@
+from app.pages.home_page import home_page
